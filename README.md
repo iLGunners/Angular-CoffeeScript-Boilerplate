@@ -13,3 +13,7 @@
 ***Code*** </br>
 - ```npm install```
 - ```coffee --watch --compile --output source/ coffee-code/``` </br>
+
+***Build*** </br>
+- ```npm install```
+- ```gulp``` </br>
