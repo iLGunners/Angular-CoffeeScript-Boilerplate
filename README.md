@@ -6,14 +6,12 @@
 - Bower 
 - Gulp  </br>
 
-***Run*** </br>
-- ```npm install```
-- ```node_modules/http-server/bin/http-server -s```</br>
-
 ***Code*** </br>
 - ```npm install```
-- ```coffee --watch --compile --output source/ coffee-code/``` </br>
+- ```node_modules/coffeescript/bin/coffee --watch --compile --output source/ coffee-code/``` </br>
+
+***Run*** </br>
+- ```node_modules/http-server/bin/http-server -s```</br>
 
 ***Build*** </br>
-- ```npm install```
-- ```gulp``` </br>
+- ```node_modules/gulp/bin/gulp.js``` </br>
