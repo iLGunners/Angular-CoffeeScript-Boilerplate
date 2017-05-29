@@ -1,9 +1,11 @@
 # Angular-CoffeeScript-Boilerplate
+ </br>
 ***Tech*** </br>
 - AngularJs
 - CoffeeScript
 - Bower 
-- Gulp
+- Gulp  </br>
+ </br>
 ***Run*** </br>
-```npm install```
-```coffee --watch --compile --output source/ coffee-code/```
+- ```npm install```
+- ```coffee --watch --compile --output source/ coffee-code/```
