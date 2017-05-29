@@ -1,0 +1,22 @@
+{
+  "name": "angular-coffeescript-boilerplate",
+  "description": "boilerplate code",
+  "main": "app.js",
+  "authors": [
+    "Mujtaba Nowshad"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/iLGunners/Angular-CoffeeScript-Boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "angular-local-storage": "^0.5.2",
+    "angular-ui-router": "^0.4.2"
+  }
+}

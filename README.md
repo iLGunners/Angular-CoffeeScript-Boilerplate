@@ -8,4 +8,8 @@
 
 ***Run*** </br>
 - ```npm install```
-- ```coffee --watch --compile --output source/ coffee-code/```
+- ```node_modules/http-server/bin/http-server -s```</br>
+
+***Code*** </br>
+- ```npm install```
+- ```coffee --watch --compile --output source/ coffee-code/``` </br>
