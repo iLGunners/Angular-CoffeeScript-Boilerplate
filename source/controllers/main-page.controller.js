@@ -9,12 +9,12 @@
 (function() {
   var mainPageController;
 
-  mainPageController = function($scope, $state, localStorageService) {
+  mainPageController = function($scope, $state, localStorageService, http) {
     return lg('CONTROLLER: in mainPageController');
   };
 
   angular.module('BoilerApp').controller('mainPageController', mainPageController);
 
-  mainPageController.$inject = ['$scope', '$state', 'localStorageService'];
+  mainPageController.$inject = ['$scope', '$state', 'localStorageService', 'http'];
 
 }).call(this);
